@@ -21,5 +21,9 @@
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.fontAliasing": "antialiased",
     "workbench.statusBar.visible": true,
-    "debug.console.fontSize": 22
+    "debug.console.fontSize": 22,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
 }
